@@ -151,7 +151,7 @@ Feel free to contribute to this project by:
 
 ##  Author
 
-**Priyanshu Yadav**(https://github.com/priyanshuyadav48)
+[Priyanshu Yadav](https://github.com/priyanshuyadav48)
 
 ---
 
